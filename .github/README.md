@@ -138,6 +138,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 - [Team Sukun](https://t.me/TeamSukun)
 - Hyper king
+- Pranv Ajay
+- Dev arora
 - Kingabhinov
 - [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
 </details>
