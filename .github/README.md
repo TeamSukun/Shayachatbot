@@ -124,7 +124,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - Install screen to keep running your bot when you close the terminal by :
 `sudo apt install screen -y`
 - Finally run the bot by :
-`screen bash start`
+`bash start`
 <br>
 
 </details>
